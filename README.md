@@ -1,2 +1,2 @@
-# tree-data-structur-inn-one
-this is a program for all traversal in one program
+# tree-data-structur-in-one
+this is a program for all Tree traversal in one program
